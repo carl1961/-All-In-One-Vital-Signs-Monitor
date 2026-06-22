@@ -14,6 +14,7 @@ Modified version of   Pulse Oximeter Finger Clip (MAX30102 module) mobi_electron
 
 <img width="575" height="828" alt="Screenshot 2026-06-21 102659" src="https://github.com/user-attachments/assets/08c7c361-c1c4-47f4-9ebc-c247b8bc83ff" />
 
+
 <img width="426" height="653" alt="Screenshot 2026-06-21 103005" src="https://github.com/user-attachments/assets/bb646aad-6cce-4047-a5af-9e943c62177f" />
 
 
