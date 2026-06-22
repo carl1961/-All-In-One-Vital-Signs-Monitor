@@ -1,7 +1,7 @@
 # -All-In-One-Vital-Signs-Monitor
 ECG-Sp02 combo, MAX30105 with Finger clamp, Sparkfun AD8232 3-Lead Color Code Standard, RA (Right Arm / Red): Placed on right shoulder, below the clavicle.  LA (Left Arm / Yellow): Placed at left shoulder, below the clavicle.  RL (Right Leg / Green): Placed on the lower right abdomen (acts as ground reference to cancel out ambient electricity).
 
-Shared Gemini coversation Link    [https://share.gemini.google/rj9SXzk3YR5y ](https://gemini.google.com/share/2accf470e2a4)   
+Shared Gemini coversation Link      [https://gemini.google.com/share/156770b25a2d](https://gemini.google.com/share/156770b25a2d)
 
 <img width="201" height="459" alt="image" src="https://github.com/user-attachments/assets/afbdd51b-8c8f-4358-a878-d25c4bdd6120" />
 
